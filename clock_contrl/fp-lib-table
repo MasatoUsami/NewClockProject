@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "OLED_SSD1306_I2C") (type "KiCad") (uri "${KIPRJMOD}/OLED_SSD1306_I2C.pretty") (options "") (descr ""))
+	(lib (name "clock_contrl") (type "KiCad") (uri "${KIPRJMOD}/clock_contrl.pretty") (options "") (descr ""))
+)
