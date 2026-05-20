@@ -5827,6 +5827,16 @@
 		)
 		(uuid "25f563be-b7d9-4bb2-80c9-0f176cd8b6aa")
 	)
+	(label "Net-(J11-Pin_2)"
+		(at 245.11 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "277e010b-eff0-4776-9508-383af5bad129")
+	)
 	(label "Net-(J6_Pin_16)"
 		(at 91.44 97.79 0)
 		(effects
@@ -5847,6 +5857,26 @@
 		)
 		(uuid "5ae209ba-4525-45d8-a3f6-222cddea2dd1")
 	)
+	(label "Net-(J11-Pin_1)"
+		(at 245.11 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "81901dbe-856e-44ba-8d65-26bda2cdb06a")
+	)
+	(label "Net-(J11-Pin_1)"
+		(at 245.11 69.85 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8ef425d8-b77c-43ab-9b5d-8167fad92fa0")
+	)
 	(label "Net-(J7-Pin_26)"
 		(at 91.44 118.11 0)
 		(effects
@@ -5857,7 +5887,7 @@
 		)
 		(uuid "9ea93bc6-aca3-49f8-845a-1a5b3af892e6")
 	)
-	(label "Net-(J6_Pin_22)"
+	(label "Net-(J6-Pin_16)"
 		(at 91.44 110.49 0)
 		(effects
 			(font
@@ -5876,6 +5906,16 @@
 			(justify left bottom)
 		)
 		(uuid "badc415f-ffb0-4df0-ab91-37a7a1ef488c")
+	)
+	(label "Net-(J11-Pin_2)"
+		(at 245.11 72.39 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c73b506d-31b3-4a61-b61c-5e11f135deea")
 	)
 	(label "Net-(J6_Pin_21)"
 		(at 91.44 107.95 0)
@@ -5896,6 +5936,16 @@
 			(justify left bottom)
 		)
 		(uuid "d330afd7-c5dd-4200-97c5-6400a13acf58")
+	)
+	(label "GND"
+		(at 24.13 68.58 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f3d1022e-ee1c-4d45-bd87-958669fef297")
 	)
 	(label "Net-(J7-Pin_14)"
 		(at 91.44 92.71 0)
@@ -7634,7 +7684,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_RJ:RJ45_Abracon_ARJP11A-MA_Horizontal"
+		(property "Footprint" "Connector_RJ:RJ45_Amphenol_54602-x08_Horizontal"
 			(at 255.27 78.105 90)
 			(hide yes)
 			(show_name no)

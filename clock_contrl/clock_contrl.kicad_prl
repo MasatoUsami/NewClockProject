@@ -48,10 +48,10 @@
       "drc_warnings",
       "drc_exclusions",
       "locked_item_shadows",
-      "conflict_shadows",
-      "shapes"
+      "shapes",
+      "ly_points"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffd57d_d755fff7",
+    "visible_layers": "ffffffff_ffffffff_ffffd57f_ffffffff",
     "zone_display_mode": 0
   },
   "git": {
